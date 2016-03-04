@@ -1,0 +1,7 @@
+.background-white {
+    background-color: #ffffff;
+}
+
+*:focus {
+    outline: none;
+}
