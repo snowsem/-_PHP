@@ -3,7 +3,7 @@
 if (isset($_GET['query'])) {
 
 
-     $dblocation = "nemo.beget.ru"; // Имя сервера
+     $dblocation = ""; // Имя сервера
     $dbuser = "";          // Имя пользователя
     $dbpasswd = "";
     $dbname ='';// Пароль
